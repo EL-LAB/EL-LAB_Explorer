@@ -6,3 +6,7 @@ Cada tarjeta de la serie Explorer abarca uno o varios temas de electrónica desd
 En esta oportunidad podrás usar la tarjeta **EL LAB: Explorer - Basics** la cual te ayudará en tus primeros pasos en la electrónica. 
 
 ¡No dudes más e inicia [aquí](https://github.com/EL-LAB/EL-LAB_Explorer_Basics_Board/wiki/02.-EL-LAB:-Explorer-Basics)!
+
+<p align="center">
+  <img width="60%" height="60%" src="https://github.com/EL-LAB/EL-LAB_Explorer_Basics_Board/blob/master/Images/17d_TarjetaLista.jpg">
+</p>
